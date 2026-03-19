@@ -1,0 +1,7 @@
+{
+  "violation_rate": 0.0,
+  "collision_rate": 0.0,
+  "mean_drift": 5.762188605474416,
+  "p95_drift": 12.870612923621376,
+  "mean_latency_ms": 0.03667249620775692
+}
