@@ -1,0 +1,4 @@
+group_a,group_b,u_stat,p_value,cliffs_delta
+gate_fallback,none,900,1.212e-12,1
+gate_fallback,project,260,0.005084,-0.4222
+none,project,0,1.212e-12,-1
