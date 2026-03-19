@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/1186199729.svg)](https://doi.org/10.5281/zenodo.19110440)
+
+
 # MARIS-AI (v0.2.1) — CAIS Experimental Stack + Statistics/Report
 
 End-to-end, self-contained experimental stack for:
