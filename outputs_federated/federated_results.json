@@ -1,0 +1,110 @@
+{
+  "config": {
+    "seed": 7,
+    "rounds": 20,
+    "clients": 10,
+    "agents": 5,
+    "bench_states": 25,
+    "local_steps": 10,
+    "lr": 0.05,
+    "hetero": 1.0,
+    "adversarial": 0.0,
+    "mode": "project",
+    "projection": "slsqp",
+    "centralized": true,
+    "noise_std": 0.05,
+    "outputs": "outputs_federated",
+    "v_max": 2.0,
+    "sep_min": 1.0,
+    "arena_radius": 20.0,
+    "dt": 0.2,
+    "margin": 0.0
+  },
+  "federated_rounds": [
+    {
+      "round": 0,
+      "global_norm": 0.3413398715687476
+    },
+    {
+      "round": 1,
+      "global_norm": 0.20437183760419272
+    },
+    {
+      "round": 2,
+      "global_norm": 0.12303588879518318
+    },
+    {
+      "round": 3,
+      "global_norm": 0.06800339311849167
+    },
+    {
+      "round": 4,
+      "global_norm": 0.04356349810099332
+    },
+    {
+      "round": 5,
+      "global_norm": 0.02497703692765245
+    },
+    {
+      "round": 6,
+      "global_norm": 0.015775234633353123
+    },
+    {
+      "round": 7,
+      "global_norm": 0.009358853457080946
+    },
+    {
+      "round": 8,
+      "global_norm": 0.008561743872767
+    },
+    {
+      "round": 9,
+      "global_norm": 0.012265121989974904
+    },
+    {
+      "round": 10,
+      "global_norm": 0.010786533925216368
+    },
+    {
+      "round": 11,
+      "global_norm": 0.010197271489233146
+    },
+    {
+      "round": 12,
+      "global_norm": 0.012189205024543851
+    },
+    {
+      "round": 13,
+      "global_norm": 0.009245368160314635
+    },
+    {
+      "round": 14,
+      "global_norm": 0.013144844175116261
+    },
+    {
+      "round": 15,
+      "global_norm": 0.013846888244205375
+    },
+    {
+      "round": 16,
+      "global_norm": 0.011874743706639102
+    },
+    {
+      "round": 17,
+      "global_norm": 0.012972844617701387
+    },
+    {
+      "round": 18,
+      "global_norm": 0.0110854381487546
+    },
+    {
+      "round": 19,
+      "global_norm": 0.011838657465806991
+    }
+  ],
+  "bench": {
+    "violations_on_bench": 0,
+    "action_var_mean": 0.012298361767100896,
+    "mean_drift": 0.03323036206708486
+  }
+}
