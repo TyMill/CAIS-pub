@@ -1,0 +1,23 @@
+[
+  {
+    "scenario": "crossing",
+    "mode": "none",
+    "centralized": true,
+    "projection": "slsqp",
+    "episodes": 30
+  },
+  {
+    "scenario": "crossing",
+    "mode": "gate_fallback",
+    "centralized": true,
+    "projection": "slsqp",
+    "episodes": 30
+  },
+  {
+    "scenario": "crossing",
+    "mode": "project",
+    "centralized": true,
+    "projection": "slsqp",
+    "episodes": 30
+  }
+]
